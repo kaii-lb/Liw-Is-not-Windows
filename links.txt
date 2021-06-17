@@ -1,3 +1,0 @@
-https://extensions.gnome.org/extension/3628/arcmenu/
-https://extensions.gnome.org/extension/615/appindicator-support/
-https://extensions.gnome.org/extension/1160/dash-to-panel/
