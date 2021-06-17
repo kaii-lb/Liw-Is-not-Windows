@@ -1,8 +1,8 @@
 This is just a script that may help transferring windows users adjust to the linux workflow. It does nothing special, it just installs some extensions and a couple themes.
 
-<img src="https://github.com/AwptiK/LIW-Linux-is-Not-Windows/blob/Images/Screenshot%20from%202021-06-17%2017-26-27.png?raw=true)" align="left">
+<img src="https://github.com/AwptiK/Liw-Is-not-Windows/blob/images/Screenshot%20from%202021-06-17%2017-26-27.png?raw=true)" align="left">
 
-<img src="https://github.com/AwptiK/LIW-Linux-is-Not-Windows/blob/Images/Screenshot%20from%202021-06-17%2017-26-35.png?raw=true)" align="left">
+<img src="https://github.com/AwptiK/Liw-Is-not-Windows/blob/images/Screenshot%20from%202021-06-17%2017-26-35.png?raw=true)" align="left">
 
 ### USAGE
 
